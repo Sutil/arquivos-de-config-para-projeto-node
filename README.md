@@ -47,6 +47,12 @@ Arquivos de configuração para projeto node.
 }
 ```
 
+# Instalar eslint
+```
+yarn add eslint -D
+yarn eslint --init
+```
+
 # Instalar nodemon e sucrase
 
 ```
