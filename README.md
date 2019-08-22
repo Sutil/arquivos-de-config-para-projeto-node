@@ -79,4 +79,7 @@ yarn add bcryptjs
 ```
 yarn add jsonwebtoken
 ```
-
+# criar database no docker
+```
+docker run --name <nome-do-container> -e POSTGRES_PASSWORD=<mysecretpassword> -d -p <porta>:5432 postgres
+```
