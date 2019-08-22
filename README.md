@@ -53,6 +53,11 @@ yarn add eslint -D
 yarn eslint --init
 ```
 
+# Instalar prettier
+```
+yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
+```
+
 # Instalar nodemon e sucrase
 
 ```
